@@ -22,6 +22,7 @@
 # Instructions
 - Open terminal
 
+Task 1
 Steps:
     mkdir -p ~/os-assignment2
     cd ~/os-assignment2
@@ -34,4 +35,13 @@ Steps:
    Exit: Ctrl+X
    gcc ipc.c -o ipc
 
+   ./ipc
+   Your input example: 7
    
+   Task 2
+   Steps: 
+       cd ~/os-assignment2
+       cd pa2
+       
+
+       
