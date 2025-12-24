@@ -1,5 +1,11 @@
 # OS_Systems_Ass2_Task1-2
 
+// ipc.c - Process management and IPC using unnamed pipes on Linux.
+// One program that forks into parent and child. Parent sends an integer
+// to child; child squares it and sends the result back.
+
+
+
 ~/os-assignment2/
 └── pa2/
     ├── ipc.c        # Task 1: Process + IPC with pipes
