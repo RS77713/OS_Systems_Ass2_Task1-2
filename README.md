@@ -52,7 +52,7 @@ Steps:
        Paste code from threads.c file
        Save: Ctrl+O, Enter
        Exit: Ctrl+X
-       gcc threads.c -o threads
+       gcc threads.c -o threads -pthread
        
 
 
