@@ -53,6 +53,7 @@ Steps:
        Save: Ctrl+O, Enter
        Exit: Ctrl+X
        gcc threads.c -o threads -pthread
+       ./threads
        
 
 
